@@ -11,7 +11,7 @@ Custom Exception: NotInRangeError for handling out-of-range user choices.
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/banking-app.git
+git clone https://github.com/RohitXJ/banking-app.git
 
 Navigate to the project directory:
 cd banking-app
@@ -24,7 +24,7 @@ Follow the on-screen instructions to navigate through the banking app menu.
 Choose options to log in, sign up, deposit, withdraw, check balance, or exit.
 
 Dependencies
-Python 3.x
+Python 3.11
 
 Contributions
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request.
